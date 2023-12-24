@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kinjih.github.io/sitemap.xml
