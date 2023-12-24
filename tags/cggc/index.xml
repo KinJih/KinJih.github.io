@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CGGC on KinJih's space</title><link>https://kinjih.github.io/tags/cggc/</link><description>Recent content in CGGC on KinJih's space</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2023 KinJih</copyright><lastBuildDate>Sat, 09 Dec 2023 17:06:08 +0800</lastBuildDate><atom:link href="https://kinjih.github.io/tags/cggc/index.xml" rel="self" type="application/rss+xml"/><item><title>CGGC CTF 2023 初賽 Writeup</title><link>https://kinjih.github.io/posts/cggc+ctf+2023+writeup/</link><pubDate>Sat, 09 Dec 2023 17:06:08 +0800</pubDate><guid>https://kinjih.github.io/posts/cggc+ctf+2023+writeup/</guid><description>[Web] bossti # Description:
+I wish you were a boss wannabe.
+明顯就是要竄改 JWT 來登入
+JWT 解開後，簽名的 Secret 是空值。
+把 JWT 改成題目提示的 boss。</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kinjih.github.io/posts/cggc+ctf+2023+writeup/feature.jpg"/></item></channel></rss>
